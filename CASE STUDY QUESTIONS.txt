@@ -1,0 +1,52 @@
+SQL – Case Studies – Loans and Credit Card Profiling Cases
+Instructions:
+Please work on the following cases.
+A) Help a small bank manage its loan portfolio and applications. To manage their business well, they need to able to track all the loan applications they receive from their
+customers. After analyzing the bank’s lending business, you’ve observed that a customer can apply for multiple loans in his / her time with the firm. You’ve decided to
+create two tables that would help this firm manage the loan applications: Customer table and Loan table.
+Import the table data from the enclosed dataset – Loans_dataset containing two tables: Customers and Loans
+(How to import data using MySQL Workbench? Open MySQL Workbench, establish connection with the local instance MySQL server, then create a new database using
+Create Database loans_database, then, right click on tables in the newly created loans_database, select Table Data Import wizard, and follow on-screen prompts)
+Once you’ve created the database and imported the tables, please help the bank’s senior credit risk officer find answer to these business questions:
+
+
+1. Find the list of the applicants who are eligible for loan.
+[Eligibility criteria: Must have credit history and income should be greater than 10,000]
+
+2. Categorize the customers into “High Value Customer” and “Low Value Customer”.
+[High value customer: Have credit history and income greater than 8000, else low value customer]
+
+3. Find the customers who neither have any credit history nor applied for a loan.
+
+4. List the customers who have dependents and credit history but with rejected loans.
+
+5. Customers&#39; complete details along with the details of the loans they have applied for.
+
+6. Find the top 5 female and male customers in terms of the income. Also, show their ranks as a separate column.
+
+
+
+B) Create a new database import the following tables from CreditCard Profiling Dataset: cc_profile, customer_region, region.
+Once you have imported the tables, please answer the following business questions:
+
+1. Customers&#39; names and the city they live in.
+
+2. Find the list of married customers from midwest and south regions.
+
+3. Find the region-wise list of customers, their age, and the fraud level.
+
+Page 2 of 2
+
+4. How many cities the customers live in?
+
+5. Show all the customers from MidWest if there are any female customers in MidWest with salary more than 700,000.
+
+6. List the total number of total number of customers in each city.
+
+7. Show only those cities with at least 400 customers.
+
+8. List the top 5 cities with highest income customers.
+
+9. List the average salary of female customers in different regions. Hint: Use Avg() function after grouping
+
+10. List the number of customers from each region and city.
