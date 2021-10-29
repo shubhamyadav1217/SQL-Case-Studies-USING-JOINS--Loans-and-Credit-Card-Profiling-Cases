@@ -1,0 +1,3001 @@
+CustID,City,Region
+100398,New York,NorthEast
+101584,New York,NorthEast
+101744,New York,NorthEast
+101860,Chicago,MidWest
+102751,Chicago,MidWest
+102857,Los Angeles,SouthWest
+103033,Houston,South
+103040,Dallas,South
+103061,Atlanta,South
+103195,Washington DC,East
+103551,New York,NorthEast
+103576,New York,NorthEast
+104238,New York,NorthEast
+104716,Chicago,MidWest
+104878,Chicago,MidWest
+104900,Los Angeles,SouthWest
+105249,Houston,South
+105634,Dallas,South
+106165,Atlanta,South
+106193,Washington DC,East
+106459,New York,NorthEast
+106726,New York,NorthEast
+107170,New York,NorthEast
+107411,Chicago,MidWest
+107862,Chicago,MidWest
+108484,Los Angeles,SouthWest
+108530,Houston,South
+109020,Dallas,South
+109152,Atlanta,South
+109390,Washington DC,East
+109694,New York,NorthEast
+109704,New York,NorthEast
+110550,New York,NorthEast
+111992,Chicago,MidWest
+112448,Chicago,MidWest
+112605,Los Angeles,SouthWest
+113060,Houston,South
+113094,Dallas,South
+113109,Atlanta,South
+113160,Washington DC,East
+113424,New York,NorthEast
+113934,New York,NorthEast
+113974,New York,NorthEast
+114449,Chicago,MidWest
+114544,Chicago,MidWest
+115401,Los Angeles,SouthWest
+115785,Houston,South
+115793,Dallas,South
+115876,Atlanta,South
+115998,Washington DC,East
+116116,New York,NorthEast
+116281,New York,NorthEast
+116552,New York,NorthEast
+116588,Chicago,MidWest
+116874,Chicago,MidWest
+117048,Los Angeles,SouthWest
+117174,Houston,South
+118159,Dallas,South
+118284,Atlanta,South
+118366,Washington DC,East
+118397,New York,NorthEast
+118443,New York,NorthEast
+118846,New York,NorthEast
+118899,Chicago,MidWest
+119168,Chicago,MidWest
+119248,Los Angeles,SouthWest
+119471,Houston,South
+119877,Dallas,South
+119879,Atlanta,South
+120335,Washington DC,East
+120428,New York,NorthEast
+120471,New York,NorthEast
+120483,New York,NorthEast
+120539,Chicago,MidWest
+120765,Chicago,MidWest
+121013,Los Angeles,SouthWest
+122208,Houston,South
+122255,Dallas,South
+122322,Atlanta,South
+122514,Washington DC,East
+122683,New York,NorthEast
+122759,New York,NorthEast
+122888,New York,NorthEast
+123395,Chicago,MidWest
+123453,Chicago,MidWest
+123880,Los Angeles,SouthWest
+123900,Houston,South
+124002,Dallas,South
+124022,Atlanta,South
+124046,Washington DC,East
+124492,New York,NorthEast
+124617,New York,NorthEast
+125051,New York,NorthEast
+125120,Chicago,MidWest
+125294,Chicago,MidWest
+125487,Los Angeles,SouthWest
+125592,Houston,South
+125866,Dallas,South
+126379,Atlanta,South
+126595,Washington DC,East
+126656,New York,NorthEast
+127025,New York,NorthEast
+127064,New York,NorthEast
+127438,Chicago,MidWest
+128112,Chicago,MidWest
+128658,Los Angeles,SouthWest
+129111,Houston,South
+129127,Dallas,South
+129502,Atlanta,South
+129613,Washington DC,East
+130148,New York,NorthEast
+130560,New York,NorthEast
+130725,New York,NorthEast
+131208,Chicago,MidWest
+131441,Chicago,MidWest
+131529,Los Angeles,SouthWest
+131936,Houston,South
+131977,Dallas,South
+132208,Atlanta,South
+132524,Washington DC,East
+132831,New York,NorthEast
+133007,New York,NorthEast
+133341,New York,NorthEast
+134167,Chicago,MidWest
+134370,Chicago,MidWest
+135163,Los Angeles,SouthWest
+135684,Houston,South
+135915,Dallas,South
+136077,Atlanta,South
+136238,Washington DC,East
+136387,New York,NorthEast
+136411,New York,NorthEast
+136662,New York,NorthEast
+137262,Chicago,MidWest
+137280,Chicago,MidWest
+137807,Los Angeles,SouthWest
+138342,Houston,South
+138362,Dallas,South
+138728,Atlanta,South
+138991,Washington DC,East
+139186,New York,NorthEast
+139731,New York,NorthEast
+139865,New York,NorthEast
+139971,Chicago,MidWest
+140410,Chicago,MidWest
+140668,Los Angeles,SouthWest
+141371,Houston,South
+141641,Dallas,South
+141898,Atlanta,South
+142092,Washington DC,East
+142277,New York,NorthEast
+142769,New York,NorthEast
+143293,New York,NorthEast
+143473,Chicago,MidWest
+143596,Chicago,MidWest
+144393,Los Angeles,SouthWest
+144439,Houston,South
+144461,Dallas,South
+145701,Atlanta,South
+145938,Washington DC,East
+145999,New York,NorthEast
+146069,New York,NorthEast
+146614,New York,NorthEast
+146643,Chicago,MidWest
+146649,Chicago,MidWest
+146782,Los Angeles,SouthWest
+146973,Houston,South
+147203,Dallas,South
+147691,Atlanta,South
+147970,Washington DC,East
+148760,New York,NorthEast
+148980,New York,NorthEast
+149371,New York,NorthEast
+149656,Chicago,MidWest
+149728,Chicago,MidWest
+150449,Los Angeles,SouthWest
+151382,Houston,South
+151879,Dallas,South
+152302,Atlanta,South
+152506,Washington DC,East
+152750,New York,NorthEast
+152989,New York,NorthEast
+153440,New York,NorthEast
+153681,Chicago,MidWest
+153778,Chicago,MidWest
+153874,Los Angeles,SouthWest
+154049,Houston,South
+154204,Dallas,South
+154816,Atlanta,South
+155246,Washington DC,East
+155580,New York,NorthEast
+156310,New York,NorthEast
+156436,New York,NorthEast
+157050,Chicago,MidWest
+157513,Chicago,MidWest
+157637,Los Angeles,SouthWest
+157701,Houston,South
+157902,Dallas,South
+159010,Atlanta,South
+159228,Washington DC,East
+159944,New York,NorthEast
+159986,New York,NorthEast
+160211,New York,NorthEast
+160591,Chicago,MidWest
+160677,Chicago,MidWest
+160993,Los Angeles,SouthWest
+161086,Houston,South
+161127,Dallas,South
+161315,Atlanta,South
+161442,Washington DC,East
+161867,New York,NorthEast
+162123,New York,NorthEast
+162454,New York,NorthEast
+162985,Chicago,MidWest
+163639,Chicago,MidWest
+163678,Los Angeles,SouthWest
+163801,Houston,South
+164178,Dallas,South
+164208,Atlanta,South
+164538,Washington DC,East
+164711,New York,NorthEast
+165322,New York,NorthEast
+166121,New York,NorthEast
+166191,Chicago,MidWest
+167456,Chicago,MidWest
+167830,Los Angeles,SouthWest
+169415,Houston,South
+169481,Dallas,South
+170264,Atlanta,South
+171111,Washington DC,East
+171319,New York,NorthEast
+171640,New York,NorthEast
+171853,New York,NorthEast
+171972,Chicago,MidWest
+172474,Chicago,MidWest
+172481,Los Angeles,SouthWest
+173417,Houston,South
+173480,Dallas,South
+173761,Atlanta,South
+174212,Washington DC,East
+174223,New York,NorthEast
+174923,New York,NorthEast
+175046,New York,NorthEast
+175221,Chicago,MidWest
+175516,Chicago,MidWest
+175524,Los Angeles,SouthWest
+175546,Houston,South
+175660,Dallas,South
+175799,Atlanta,South
+175811,Washington DC,East
+176004,New York,NorthEast
+176156,New York,NorthEast
+176269,New York,NorthEast
+176486,Chicago,MidWest
+176532,Chicago,MidWest
+177539,Los Angeles,SouthWest
+177574,Houston,South
+177657,Dallas,South
+177799,Atlanta,South
+177809,Washington DC,East
+178099,New York,NorthEast
+178304,New York,NorthEast
+178413,New York,NorthEast
+179067,Chicago,MidWest
+179187,Chicago,MidWest
+179252,Los Angeles,SouthWest
+179256,Houston,South
+179316,Dallas,South
+179718,Atlanta,South
+179984,Washington DC,East
+180446,New York,NorthEast
+180526,New York,NorthEast
+180789,New York,NorthEast
+181431,Chicago,MidWest
+181520,Chicago,MidWest
+181960,Los Angeles,SouthWest
+181988,Houston,South
+182191,Dallas,South
+182192,Atlanta,South
+182394,Washington DC,East
+182618,New York,NorthEast
+182831,New York,NorthEast
+183055,New York,NorthEast
+183132,Chicago,MidWest
+183436,Chicago,MidWest
+184118,Los Angeles,SouthWest
+184454,Houston,South
+184510,Dallas,South
+184698,Atlanta,South
+185010,Washington DC,East
+185263,New York,NorthEast
+185896,New York,NorthEast
+186294,New York,NorthEast
+186851,Chicago,MidWest
+187018,Chicago,MidWest
+187658,Los Angeles,SouthWest
+187870,Houston,South
+187948,Dallas,South
+187979,Atlanta,South
+188205,Washington DC,East
+188372,New York,NorthEast
+188791,New York,NorthEast
+188891,New York,NorthEast
+188898,Chicago,MidWest
+188971,Chicago,MidWest
+189156,Los Angeles,SouthWest
+189277,Houston,South
+189588,Dallas,South
+190051,Atlanta,South
+190624,Washington DC,East
+190727,New York,NorthEast
+191125,New York,NorthEast
+191711,New York,NorthEast
+191855,Chicago,MidWest
+192369,Chicago,MidWest
+192955,Los Angeles,SouthWest
+192962,Houston,South
+193257,Dallas,South
+193416,Atlanta,South
+193567,Washington DC,East
+193696,New York,NorthEast
+193761,New York,NorthEast
+194161,New York,NorthEast
+194379,Chicago,MidWest
+194672,Chicago,MidWest
+195076,Los Angeles,SouthWest
+195278,Houston,South
+195292,Dallas,South
+196070,Atlanta,South
+196165,Washington DC,East
+196280,New York,NorthEast
+196335,New York,NorthEast
+196341,New York,NorthEast
+196579,Chicago,MidWest
+197200,Chicago,MidWest
+197285,Los Angeles,SouthWest
+197535,Houston,South
+197574,Dallas,South
+197964,Atlanta,South
+197975,Washington DC,East
+198737,New York,NorthEast
+198829,New York,NorthEast
+198901,New York,NorthEast
+199123,Chicago,MidWest
+199363,Chicago,MidWest
+200065,Los Angeles,SouthWest
+200244,Houston,South
+200645,Dallas,South
+201001,Atlanta,South
+201191,Washington DC,East
+201422,New York,NorthEast
+201541,New York,NorthEast
+201971,New York,NorthEast
+202169,Chicago,MidWest
+202593,Chicago,MidWest
+202596,Los Angeles,SouthWest
+202786,Houston,South
+202856,Dallas,South
+202863,Atlanta,South
+202935,Washington DC,East
+203022,New York,NorthEast
+203094,New York,NorthEast
+203528,New York,NorthEast
+204097,Chicago,MidWest
+204579,Chicago,MidWest
+205304,Los Angeles,SouthWest
+205695,Houston,South
+205741,Dallas,South
+206794,Atlanta,South
+206854,Washington DC,East
+207066,New York,NorthEast
+207318,New York,NorthEast
+207584,New York,NorthEast
+207819,Chicago,MidWest
+208419,Chicago,MidWest
+208518,Los Angeles,SouthWest
+209123,Houston,South
+209193,Dallas,South
+209291,Atlanta,South
+209737,Washington DC,East
+209834,New York,NorthEast
+209900,New York,NorthEast
+210204,New York,NorthEast
+210912,Chicago,MidWest
+211523,Chicago,MidWest
+211755,Los Angeles,SouthWest
+212488,Houston,South
+212645,Dallas,South
+212746,Atlanta,South
+213160,Washington DC,East
+213412,New York,NorthEast
+213438,New York,NorthEast
+213828,New York,NorthEast
+214027,Chicago,MidWest
+214104,Chicago,MidWest
+214509,Los Angeles,SouthWest
+214667,Houston,South
+215056,Dallas,South
+215429,Atlanta,South
+215731,Washington DC,East
+215740,New York,NorthEast
+216330,New York,NorthEast
+216878,New York,NorthEast
+217046,Chicago,MidWest
+217514,Chicago,MidWest
+217999,Los Angeles,SouthWest
+218397,Houston,South
+218404,Dallas,South
+218454,Atlanta,South
+219150,Washington DC,East
+220173,New York,NorthEast
+220876,New York,NorthEast
+220892,New York,NorthEast
+221314,Chicago,MidWest
+221342,Chicago,MidWest
+221406,Los Angeles,SouthWest
+221826,Houston,South
+222059,Dallas,South
+222201,Atlanta,South
+222368,Washington DC,East
+222445,New York,NorthEast
+222659,New York,NorthEast
+222977,New York,NorthEast
+223006,Chicago,MidWest
+223392,Chicago,MidWest
+223517,Los Angeles,SouthWest
+223591,Houston,South
+223928,Dallas,South
+224024,Atlanta,South
+224224,Washington DC,East
+224380,New York,NorthEast
+224865,New York,NorthEast
+225117,New York,NorthEast
+225396,Chicago,MidWest
+225432,Chicago,MidWest
+225556,Los Angeles,SouthWest
+225686,Houston,South
+225714,Dallas,South
+226303,Atlanta,South
+226331,Washington DC,East
+226367,New York,NorthEast
+226661,New York,NorthEast
+226678,New York,NorthEast
+226842,Chicago,MidWest
+226995,Chicago,MidWest
+227225,Los Angeles,SouthWest
+227465,Houston,South
+228379,Dallas,South
+228430,Atlanta,South
+228566,Washington DC,East
+228834,New York,NorthEast
+229008,New York,NorthEast
+229028,New York,NorthEast
+229488,Chicago,MidWest
+229514,Chicago,MidWest
+230797,Los Angeles,SouthWest
+230985,Houston,South
+231024,Dallas,South
+231492,Atlanta,South
+231582,Washington DC,East
+231587,New York,NorthEast
+231942,New York,NorthEast
+232140,New York,NorthEast
+232355,Chicago,MidWest
+232692,Chicago,MidWest
+232960,Los Angeles,SouthWest
+233067,Houston,South
+233429,Dallas,South
+234350,Atlanta,South
+234530,Washington DC,East
+234543,New York,NorthEast
+234593,New York,NorthEast
+235000,New York,NorthEast
+235070,Chicago,MidWest
+235223,Chicago,MidWest
+235240,Los Angeles,SouthWest
+235284,Houston,South
+235459,Dallas,South
+235591,Atlanta,South
+235832,Washington DC,East
+236405,New York,NorthEast
+236585,New York,NorthEast
+236674,New York,NorthEast
+237097,Chicago,MidWest
+238005,Chicago,MidWest
+238794,Los Angeles,SouthWest
+238997,Houston,South
+239021,Dallas,South
+239106,Atlanta,South
+239181,Washington DC,East
+239427,New York,NorthEast
+239483,New York,NorthEast
+239675,New York,NorthEast
+239767,Chicago,MidWest
+241031,Chicago,MidWest
+241216,Los Angeles,SouthWest
+241822,Houston,South
+242347,Dallas,South
+242468,Atlanta,South
+242863,Washington DC,East
+243527,New York,NorthEast
+243743,New York,NorthEast
+244310,New York,NorthEast
+244644,Chicago,MidWest
+244665,Chicago,MidWest
+244891,Los Angeles,SouthWest
+245028,Houston,South
+245064,Dallas,South
+245100,Atlanta,South
+245163,Washington DC,East
+246393,New York,NorthEast
+246860,New York,NorthEast
+248912,New York,NorthEast
+249564,Chicago,MidWest
+250242,Chicago,MidWest
+250488,Los Angeles,SouthWest
+250658,Houston,South
+250697,Dallas,South
+251422,Atlanta,South
+251494,Washington DC,East
+251534,New York,NorthEast
+251641,New York,NorthEast
+251682,New York,NorthEast
+251746,Chicago,MidWest
+251885,Chicago,MidWest
+251946,Los Angeles,SouthWest
+252936,Houston,South
+252950,Dallas,South
+253176,Atlanta,South
+253401,Washington DC,East
+253717,New York,NorthEast
+254153,New York,NorthEast
+254438,New York,NorthEast
+254938,Chicago,MidWest
+255269,Chicago,MidWest
+255290,Los Angeles,SouthWest
+255465,Houston,South
+255571,Dallas,South
+255624,Atlanta,South
+255628,Washington DC,East
+256502,New York,NorthEast
+256705,New York,NorthEast
+257029,New York,NorthEast
+257261,Chicago,MidWest
+257269,Chicago,MidWest
+258520,Los Angeles,SouthWest
+258622,Houston,South
+259174,Dallas,South
+259234,Atlanta,South
+259516,Washington DC,East
+259938,New York,NorthEast
+260107,New York,NorthEast
+260506,New York,NorthEast
+260808,Chicago,MidWest
+260905,Chicago,MidWest
+260953,Los Angeles,SouthWest
+260983,Houston,South
+260992,Dallas,South
+261618,Atlanta,South
+262168,Washington DC,East
+262341,New York,NorthEast
+262353,New York,NorthEast
+262425,New York,NorthEast
+262846,Chicago,MidWest
+263279,Chicago,MidWest
+263742,Los Angeles,SouthWest
+264060,Houston,South
+264821,Dallas,South
+265754,Atlanta,South
+265910,Washington DC,East
+266837,New York,NorthEast
+266937,New York,NorthEast
+267000,New York,NorthEast
+267399,Chicago,MidWest
+267555,Chicago,MidWest
+268874,Los Angeles,SouthWest
+268944,Houston,South
+269043,Dallas,South
+269075,Atlanta,South
+269319,Washington DC,East
+270914,New York,NorthEast
+271238,New York,NorthEast
+271354,New York,NorthEast
+271743,Chicago,MidWest
+271748,Chicago,MidWest
+272227,Los Angeles,SouthWest
+273075,Houston,South
+273474,Dallas,South
+273682,Atlanta,South
+273894,Washington DC,East
+273903,New York,NorthEast
+274548,New York,NorthEast
+275189,New York,NorthEast
+275479,Chicago,MidWest
+276044,Chicago,MidWest
+276373,Los Angeles,SouthWest
+276582,Houston,South
+277094,Dallas,South
+277225,Atlanta,South
+277601,Washington DC,East
+277618,New York,NorthEast
+277646,New York,NorthEast
+277797,New York,NorthEast
+278019,Chicago,MidWest
+278733,Chicago,MidWest
+278765,Los Angeles,SouthWest
+279068,Houston,South
+279131,Dallas,South
+279207,Atlanta,South
+279571,Washington DC,East
+279652,New York,NorthEast
+279710,New York,NorthEast
+280182,New York,NorthEast
+280349,Chicago,MidWest
+280551,Chicago,MidWest
+281018,Los Angeles,SouthWest
+281379,Houston,South
+281832,Dallas,South
+281972,Atlanta,South
+282001,Washington DC,East
+282003,New York,NorthEast
+282439,New York,NorthEast
+282599,New York,NorthEast
+282651,Chicago,MidWest
+282945,Chicago,MidWest
+283194,Los Angeles,SouthWest
+283221,Houston,South
+283594,Dallas,South
+283842,Atlanta,South
+283920,Washington DC,East
+283946,New York,NorthEast
+284108,New York,NorthEast
+284110,New York,NorthEast
+285155,Chicago,MidWest
+285383,Chicago,MidWest
+285537,Los Angeles,SouthWest
+285576,Houston,South
+285623,Dallas,South
+286287,Atlanta,South
+286502,Washington DC,East
+286746,New York,NorthEast
+287717,New York,NorthEast
+287992,New York,NorthEast
+288000,Chicago,MidWest
+288003,Chicago,MidWest
+288037,Los Angeles,SouthWest
+288629,Houston,South
+288801,Dallas,South
+289046,Atlanta,South
+289290,Washington DC,East
+289716,New York,NorthEast
+289835,New York,NorthEast
+290000,New York,NorthEast
+290122,Chicago,MidWest
+290183,Chicago,MidWest
+291021,Los Angeles,SouthWest
+291532,Houston,South
+292372,Dallas,South
+292501,Atlanta,South
+292655,Washington DC,East
+292936,New York,NorthEast
+292949,New York,NorthEast
+293009,New York,NorthEast
+293615,Chicago,MidWest
+293735,Chicago,MidWest
+294631,Los Angeles,SouthWest
+295131,Houston,South
+295140,Dallas,South
+295307,Atlanta,South
+295308,Washington DC,East
+295482,New York,NorthEast
+296249,New York,NorthEast
+296305,New York,NorthEast
+296806,Chicago,MidWest
+297165,Chicago,MidWest
+297401,Los Angeles,SouthWest
+297690,Houston,South
+297786,Dallas,South
+297866,Atlanta,South
+298048,Washington DC,East
+298441,New York,NorthEast
+298878,New York,NorthEast
+298939,New York,NorthEast
+299635,Chicago,MidWest
+299698,Chicago,MidWest
+299955,Los Angeles,SouthWest
+300007,Houston,South
+300569,Dallas,South
+301051,Atlanta,South
+301782,Washington DC,East
+302108,New York,NorthEast
+302733,New York,NorthEast
+302741,New York,NorthEast
+303063,Chicago,MidWest
+303107,Chicago,MidWest
+303135,Los Angeles,SouthWest
+303241,Houston,South
+303926,Dallas,South
+303956,Atlanta,South
+304210,Washington DC,East
+305062,New York,NorthEast
+305667,New York,NorthEast
+306096,New York,NorthEast
+306112,Chicago,MidWest
+306174,Chicago,MidWest
+306412,Los Angeles,SouthWest
+306775,Houston,South
+306906,Dallas,South
+307002,Atlanta,South
+307329,Washington DC,East
+307657,New York,NorthEast
+307752,New York,NorthEast
+308658,New York,NorthEast
+308995,Chicago,MidWest
+309008,Chicago,MidWest
+309134,Los Angeles,SouthWest
+309179,Houston,South
+309510,Dallas,South
+309573,Atlanta,South
+309737,Washington DC,East
+310337,New York,NorthEast
+310418,New York,NorthEast
+310514,New York,NorthEast
+310561,Chicago,MidWest
+310682,Chicago,MidWest
+311261,Los Angeles,SouthWest
+311404,Houston,South
+312638,Dallas,South
+312658,Atlanta,South
+312713,Washington DC,East
+312909,New York,NorthEast
+313399,New York,NorthEast
+313548,New York,NorthEast
+314671,Chicago,MidWest
+315501,Chicago,MidWest
+315846,Los Angeles,SouthWest
+316266,Houston,South
+316342,Dallas,South
+317171,Atlanta,South
+317604,Washington DC,East
+317687,New York,NorthEast
+317848,New York,NorthEast
+317941,New York,NorthEast
+318012,Chicago,MidWest
+318081,Chicago,MidWest
+318689,Los Angeles,SouthWest
+318692,Houston,South
+318760,Dallas,South
+318843,Atlanta,South
+319330,Washington DC,East
+319861,New York,NorthEast
+319862,New York,NorthEast
+320102,New York,NorthEast
+320630,Chicago,MidWest
+321239,Chicago,MidWest
+321735,Los Angeles,SouthWest
+321908,Houston,South
+322242,Dallas,South
+322503,Atlanta,South
+322787,Washington DC,East
+322835,New York,NorthEast
+322917,New York,NorthEast
+323168,New York,NorthEast
+323372,Chicago,MidWest
+324127,Chicago,MidWest
+324746,Los Angeles,SouthWest
+324919,Houston,South
+325382,Dallas,South
+325419,Atlanta,South
+326077,Washington DC,East
+326504,New York,NorthEast
+327169,New York,NorthEast
+327346,New York,NorthEast
+327398,Chicago,MidWest
+327761,Chicago,MidWest
+327891,Los Angeles,SouthWest
+328792,Houston,South
+329771,Dallas,South
+329884,Atlanta,South
+329964,Washington DC,East
+330879,New York,NorthEast
+331109,New York,NorthEast
+331582,New York,NorthEast
+332403,Chicago,MidWest
+332558,Chicago,MidWest
+333048,Los Angeles,SouthWest
+333322,Houston,South
+333429,Dallas,South
+333807,Atlanta,South
+333926,Washington DC,East
+334031,New York,NorthEast
+334113,New York,NorthEast
+334362,New York,NorthEast
+334469,Chicago,MidWest
+335228,Chicago,MidWest
+335394,Los Angeles,SouthWest
+335470,Houston,South
+335758,Dallas,South
+335942,Atlanta,South
+335959,Washington DC,East
+336182,New York,NorthEast
+336841,New York,NorthEast
+336862,New York,NorthEast
+337150,Chicago,MidWest
+337370,Chicago,MidWest
+338340,Los Angeles,SouthWest
+338793,Houston,South
+339172,Dallas,South
+339777,Atlanta,South
+341128,Washington DC,East
+341198,New York,NorthEast
+341256,New York,NorthEast
+341349,New York,NorthEast
+341490,Chicago,MidWest
+341706,Chicago,MidWest
+341741,Los Angeles,SouthWest
+342860,Houston,South
+342928,Dallas,South
+343181,Atlanta,South
+343545,Washington DC,East
+343711,New York,NorthEast
+344631,New York,NorthEast
+345219,New York,NorthEast
+345366,Chicago,MidWest
+345448,Chicago,MidWest
+345985,Los Angeles,SouthWest
+346243,Houston,South
+346379,Dallas,South
+346621,Atlanta,South
+346896,Washington DC,East
+346913,New York,NorthEast
+347069,New York,NorthEast
+347277,New York,NorthEast
+347421,Chicago,MidWest
+347924,Chicago,MidWest
+348033,Los Angeles,SouthWest
+348434,Houston,South
+348723,Dallas,South
+349056,Atlanta,South
+349070,Washington DC,East
+349313,New York,NorthEast
+350608,New York,NorthEast
+351823,New York,NorthEast
+351981,Chicago,MidWest
+352251,Chicago,MidWest
+355084,Los Angeles,SouthWest
+355138,Houston,South
+355209,Dallas,South
+355667,Atlanta,South
+355725,Washington DC,East
+355759,New York,NorthEast
+355819,New York,NorthEast
+356549,New York,NorthEast
+357092,Chicago,MidWest
+357404,Chicago,MidWest
+357573,Los Angeles,SouthWest
+357814,Houston,South
+358547,Dallas,South
+358684,Atlanta,South
+358828,Washington DC,East
+358916,New York,NorthEast
+359814,New York,NorthEast
+361121,New York,NorthEast
+361357,Chicago,MidWest
+361418,Chicago,MidWest
+361782,Los Angeles,SouthWest
+361825,Houston,South
+362011,Dallas,South
+363228,Atlanta,South
+363378,Washington DC,East
+363452,New York,NorthEast
+363471,New York,NorthEast
+363893,New York,NorthEast
+364018,Chicago,MidWest
+364061,Chicago,MidWest
+364666,Los Angeles,SouthWest
+364729,Houston,South
+365061,Dallas,South
+365181,Atlanta,South
+366188,Washington DC,East
+366660,New York,NorthEast
+366774,New York,NorthEast
+367274,New York,NorthEast
+367596,Chicago,MidWest
+368259,Chicago,MidWest
+368348,Los Angeles,SouthWest
+368534,Houston,South
+368722,Dallas,South
+368869,Atlanta,South
+369180,Washington DC,East
+369235,New York,NorthEast
+369901,New York,NorthEast
+370274,New York,NorthEast
+371581,Chicago,MidWest
+371905,Chicago,MidWest
+372174,Los Angeles,SouthWest
+372195,Houston,South
+373366,Dallas,South
+373520,Atlanta,South
+373635,Washington DC,East
+373937,New York,NorthEast
+374268,New York,NorthEast
+374319,New York,NorthEast
+375169,Chicago,MidWest
+375338,Chicago,MidWest
+375439,Los Angeles,SouthWest
+375570,Houston,South
+375894,Dallas,South
+376228,Atlanta,South
+376500,Washington DC,East
+376853,New York,NorthEast
+377161,New York,NorthEast
+377875,New York,NorthEast
+377913,Chicago,MidWest
+377995,Chicago,MidWest
+378100,Los Angeles,SouthWest
+378405,Houston,South
+378579,Dallas,South
+378721,Atlanta,South
+379392,Washington DC,East
+379477,New York,NorthEast
+379752,New York,NorthEast
+380397,New York,NorthEast
+381503,Chicago,MidWest
+381828,Chicago,MidWest
+381909,Los Angeles,SouthWest
+382831,Houston,South
+383466,Dallas,South
+383507,Atlanta,South
+384580,Washington DC,East
+384811,New York,NorthEast
+387009,New York,NorthEast
+387121,New York,NorthEast
+387136,Chicago,MidWest
+387456,Chicago,MidWest
+387562,Los Angeles,SouthWest
+387565,Houston,South
+387660,Dallas,South
+387783,Atlanta,South
+388719,Washington DC,East
+388880,New York,NorthEast
+389144,New York,NorthEast
+389158,New York,NorthEast
+389737,Chicago,MidWest
+390296,Chicago,MidWest
+390370,Los Angeles,SouthWest
+390619,Houston,South
+390843,Dallas,South
+391211,Atlanta,South
+391715,Washington DC,East
+391775,New York,NorthEast
+392124,New York,NorthEast
+392330,New York,NorthEast
+392551,Chicago,MidWest
+392929,Chicago,MidWest
+393255,Los Angeles,SouthWest
+393470,Houston,South
+393669,Dallas,South
+393749,Atlanta,South
+393976,Washington DC,East
+394144,New York,NorthEast
+394765,New York,NorthEast
+394784,New York,NorthEast
+394795,Chicago,MidWest
+394931,Chicago,MidWest
+395764,Los Angeles,SouthWest
+395799,Houston,South
+396036,Dallas,South
+396040,Atlanta,South
+396219,Washington DC,East
+396483,New York,NorthEast
+397003,New York,NorthEast
+397127,New York,NorthEast
+397251,Chicago,MidWest
+397606,Chicago,MidWest
+398013,Los Angeles,SouthWest
+398783,Houston,South
+399796,Dallas,South
+399976,Atlanta,South
+400133,Washington DC,East
+400192,New York,NorthEast
+400266,New York,NorthEast
+400455,New York,NorthEast
+400474,Chicago,MidWest
+400600,Chicago,MidWest
+400755,Los Angeles,SouthWest
+402194,Houston,South
+402249,Dallas,South
+402647,Atlanta,South
+403019,Washington DC,East
+403875,New York,NorthEast
+403960,New York,NorthEast
+403998,New York,NorthEast
+404049,Chicago,MidWest
+404919,Chicago,MidWest
+405216,Los Angeles,SouthWest
+405801,Houston,South
+405926,Dallas,South
+406204,Atlanta,South
+406302,Washington DC,East
+406633,New York,NorthEast
+407095,New York,NorthEast
+407143,New York,NorthEast
+407816,Chicago,MidWest
+408424,Chicago,MidWest
+408912,Los Angeles,SouthWest
+409365,Houston,South
+409384,Dallas,South
+409449,Atlanta,South
+410072,Washington DC,East
+410094,New York,NorthEast
+410310,New York,NorthEast
+410597,New York,NorthEast
+410948,Chicago,MidWest
+411014,Chicago,MidWest
+411307,Los Angeles,SouthWest
+412026,Houston,South
+412766,Dallas,South
+412838,Atlanta,South
+412985,Washington DC,East
+413707,New York,NorthEast
+414192,New York,NorthEast
+414838,New York,NorthEast
+414869,Chicago,MidWest
+415010,Chicago,MidWest
+415058,Los Angeles,SouthWest
+415249,Houston,South
+415282,Dallas,South
+415355,Atlanta,South
+415854,Washington DC,East
+416135,New York,NorthEast
+416261,New York,NorthEast
+416767,New York,NorthEast
+417777,Chicago,MidWest
+417832,Chicago,MidWest
+418226,Los Angeles,SouthWest
+418716,Houston,South
+418827,Dallas,South
+418886,Atlanta,South
+418891,Washington DC,East
+419436,New York,NorthEast
+419647,New York,NorthEast
+419803,New York,NorthEast
+420001,Chicago,MidWest
+421447,Chicago,MidWest
+421956,Los Angeles,SouthWest
+421972,Houston,South
+422065,Dallas,South
+422232,Atlanta,South
+422362,Washington DC,East
+422531,New York,NorthEast
+423015,New York,NorthEast
+423050,New York,NorthEast
+423348,Chicago,MidWest
+423407,Chicago,MidWest
+424351,Los Angeles,SouthWest
+424623,Houston,South
+425804,Dallas,South
+425825,Atlanta,South
+426333,Washington DC,East
+426410,New York,NorthEast
+426525,New York,NorthEast
+426719,New York,NorthEast
+427082,Chicago,MidWest
+427106,Chicago,MidWest
+427195,Los Angeles,SouthWest
+427331,Houston,South
+427409,Dallas,South
+427608,Atlanta,South
+428139,Washington DC,East
+428183,New York,NorthEast
+428674,New York,NorthEast
+428915,New York,NorthEast
+429144,Chicago,MidWest
+429417,Chicago,MidWest
+429795,Los Angeles,SouthWest
+429837,Houston,South
+430184,Dallas,South
+430285,Atlanta,South
+430506,Washington DC,East
+430665,New York,NorthEast
+430821,New York,NorthEast
+430865,New York,NorthEast
+430900,Chicago,MidWest
+431265,Chicago,MidWest
+431500,Los Angeles,SouthWest
+431870,Houston,South
+431894,Dallas,South
+431998,Atlanta,South
+432294,Washington DC,East
+432510,New York,NorthEast
+432581,New York,NorthEast
+432798,New York,NorthEast
+432912,Chicago,MidWest
+433525,Chicago,MidWest
+434428,Los Angeles,SouthWest
+434824,Houston,South
+434918,Dallas,South
+435040,Atlanta,South
+435176,Washington DC,East
+435604,New York,NorthEast
+435611,New York,NorthEast
+436061,New York,NorthEast
+436075,Chicago,MidWest
+436395,Chicago,MidWest
+436476,Los Angeles,SouthWest
+436910,Houston,South
+437211,Dallas,South
+437275,Atlanta,South
+437346,Washington DC,East
+438226,New York,NorthEast
+438734,New York,NorthEast
+438971,New York,NorthEast
+439520,Chicago,MidWest
+439705,Chicago,MidWest
+439915,Los Angeles,SouthWest
+440014,Houston,South
+440192,Dallas,South
+440578,Atlanta,South
+440909,Washington DC,East
+441296,New York,NorthEast
+441458,New York,NorthEast
+441831,New York,NorthEast
+441914,Chicago,MidWest
+442006,Chicago,MidWest
+442106,Los Angeles,SouthWest
+442433,Houston,South
+443809,Dallas,South
+444099,Atlanta,South
+445541,Washington DC,East
+446178,New York,NorthEast
+446283,New York,NorthEast
+446294,New York,NorthEast
+446439,Chicago,MidWest
+447370,Chicago,MidWest
+448061,Los Angeles,SouthWest
+448264,Houston,South
+448854,Dallas,South
+449265,Atlanta,South
+449662,Washington DC,East
+450129,New York,NorthEast
+451247,New York,NorthEast
+451837,New York,NorthEast
+451862,Chicago,MidWest
+452436,Chicago,MidWest
+452653,Los Angeles,SouthWest
+452846,Houston,South
+453082,Dallas,South
+453296,Atlanta,South
+453454,Washington DC,East
+453881,New York,NorthEast
+454039,New York,NorthEast
+454112,New York,NorthEast
+454314,Chicago,MidWest
+454318,Chicago,MidWest
+454350,Los Angeles,SouthWest
+454574,Houston,South
+455451,Dallas,South
+455710,Atlanta,South
+456395,Washington DC,East
+456516,New York,NorthEast
+456538,New York,NorthEast
+456622,New York,NorthEast
+456647,Chicago,MidWest
+457405,Chicago,MidWest
+457816,Los Angeles,SouthWest
+458577,Houston,South
+458854,Dallas,South
+459050,Atlanta,South
+459143,Washington DC,East
+460052,New York,NorthEast
+460312,New York,NorthEast
+460427,New York,NorthEast
+460682,Chicago,MidWest
+460953,Chicago,MidWest
+461021,Los Angeles,SouthWest
+461220,Houston,South
+461582,Dallas,South
+461721,Atlanta,South
+461793,Washington DC,East
+461811,New York,NorthEast
+461876,New York,NorthEast
+461941,New York,NorthEast
+462498,Chicago,MidWest
+463046,Chicago,MidWest
+465862,Los Angeles,SouthWest
+466002,Houston,South
+466077,Dallas,South
+467302,Atlanta,South
+467313,Washington DC,East
+467405,New York,NorthEast
+467851,New York,NorthEast
+468127,New York,NorthEast
+468201,Chicago,MidWest
+468648,Chicago,MidWest
+468747,Los Angeles,SouthWest
+469052,Houston,South
+469305,Dallas,South
+469523,Atlanta,South
+469548,Washington DC,East
+469608,New York,NorthEast
+469737,New York,NorthEast
+469886,New York,NorthEast
+470444,Chicago,MidWest
+470661,Chicago,MidWest
+470906,Los Angeles,SouthWest
+471122,Houston,South
+471177,Dallas,South
+471503,Atlanta,South
+471715,Washington DC,East
+472194,New York,NorthEast
+472441,New York,NorthEast
+472515,New York,NorthEast
+472783,Chicago,MidWest
+472884,Chicago,MidWest
+473013,Los Angeles,SouthWest
+473020,Houston,South
+473470,Dallas,South
+474150,Atlanta,South
+474297,Washington DC,East
+474518,New York,NorthEast
+474989,New York,NorthEast
+475555,New York,NorthEast
+475701,Chicago,MidWest
+475719,Chicago,MidWest
+475792,Los Angeles,SouthWest
+475881,Houston,South
+475895,Dallas,South
+476103,Atlanta,South
+476244,Washington DC,East
+476313,New York,NorthEast
+476364,New York,NorthEast
+476630,New York,NorthEast
+476810,Chicago,MidWest
+477153,Chicago,MidWest
+477259,Los Angeles,SouthWest
+477981,Houston,South
+478092,Dallas,South
+478151,Atlanta,South
+478210,Washington DC,East
+478443,New York,NorthEast
+478556,New York,NorthEast
+478608,New York,NorthEast
+479317,Chicago,MidWest
+479867,Chicago,MidWest
+479976,Los Angeles,SouthWest
+480157,Houston,South
+480405,Dallas,South
+481143,Atlanta,South
+481689,Washington DC,East
+481760,New York,NorthEast
+482472,New York,NorthEast
+483045,New York,NorthEast
+483375,Chicago,MidWest
+483447,Chicago,MidWest
+483449,Los Angeles,SouthWest
+483473,Houston,South
+483844,Dallas,South
+483997,Atlanta,South
+484209,Washington DC,East
+484370,New York,NorthEast
+484411,New York,NorthEast
+484941,New York,NorthEast
+485124,Chicago,MidWest
+485327,Chicago,MidWest
+485425,Los Angeles,SouthWest
+485857,Houston,South
+485935,Dallas,South
+486023,Atlanta,South
+486428,Washington DC,East
+487089,New York,NorthEast
+487265,New York,NorthEast
+487356,New York,NorthEast
+487407,Chicago,MidWest
+487435,Chicago,MidWest
+487584,Los Angeles,SouthWest
+487870,Houston,South
+488077,Dallas,South
+488147,Atlanta,South
+488193,Washington DC,East
+488374,New York,NorthEast
+488414,New York,NorthEast
+488713,New York,NorthEast
+489986,Chicago,MidWest
+490002,Chicago,MidWest
+490385,Los Angeles,SouthWest
+490593,Houston,South
+490874,Dallas,South
+491102,Atlanta,South
+491114,Washington DC,East
+491254,New York,NorthEast
+491695,New York,NorthEast
+492556,New York,NorthEast
+493617,Chicago,MidWest
+493644,Chicago,MidWest
+494777,Los Angeles,SouthWest
+495641,Houston,South
+495910,Dallas,South
+496079,Atlanta,South
+496282,Washington DC,East
+496304,New York,NorthEast
+497012,New York,NorthEast
+497618,New York,NorthEast
+497634,Chicago,MidWest
+498036,Chicago,MidWest
+498295,Los Angeles,SouthWest
+498524,Houston,South
+499075,Dallas,South
+499668,Atlanta,South
+499744,Washington DC,East
+499870,New York,NorthEast
+500313,New York,NorthEast
+500344,New York,NorthEast
+500448,Chicago,MidWest
+501038,Chicago,MidWest
+501426,Los Angeles,SouthWest
+501468,Houston,South
+502207,Dallas,South
+502269,Atlanta,South
+502389,Washington DC,East
+502490,New York,NorthEast
+502983,New York,NorthEast
+503034,New York,NorthEast
+503276,Chicago,MidWest
+503349,Chicago,MidWest
+503468,Los Angeles,SouthWest
+503575,Houston,South
+503659,Dallas,South
+504035,Atlanta,South
+504531,Washington DC,East
+504680,New York,NorthEast
+504793,New York,NorthEast
+505482,New York,NorthEast
+505576,Chicago,MidWest
+505593,Chicago,MidWest
+505763,Los Angeles,SouthWest
+505965,Houston,South
+506155,Dallas,South
+506269,Atlanta,South
+507773,Washington DC,East
+507847,New York,NorthEast
+507971,New York,NorthEast
+509589,New York,NorthEast
+510098,Chicago,MidWest
+510310,Chicago,MidWest
+511025,Los Angeles,SouthWest
+511426,Houston,South
+512981,Dallas,South
+513027,Atlanta,South
+513115,Washington DC,East
+513187,New York,NorthEast
+513986,New York,NorthEast
+514544,New York,NorthEast
+514626,Chicago,MidWest
+515666,Chicago,MidWest
+516655,Los Angeles,SouthWest
+517046,Houston,South
+517340,Dallas,South
+517671,Atlanta,South
+517807,Washington DC,East
+518027,New York,NorthEast
+518423,New York,NorthEast
+518927,New York,NorthEast
+519035,Chicago,MidWest
+519128,Chicago,MidWest
+519419,Los Angeles,SouthWest
+519782,Houston,South
+520663,Dallas,South
+521105,Atlanta,South
+522085,Washington DC,East
+522684,New York,NorthEast
+522716,New York,NorthEast
+522735,New York,NorthEast
+523697,Chicago,MidWest
+523719,Chicago,MidWest
+523809,Los Angeles,SouthWest
+524062,Houston,South
+524287,Dallas,South
+525521,Atlanta,South
+526197,Washington DC,East
+526444,New York,NorthEast
+526509,New York,NorthEast
+526594,New York,NorthEast
+526663,Chicago,MidWest
+527283,Chicago,MidWest
+527348,Los Angeles,SouthWest
+527393,Houston,South
+527767,Dallas,South
+528596,Atlanta,South
+529040,Washington DC,East
+529257,New York,NorthEast
+529538,New York,NorthEast
+529766,New York,NorthEast
+529823,Chicago,MidWest
+530167,Chicago,MidWest
+530326,Los Angeles,SouthWest
+530362,Houston,South
+530604,Dallas,South
+530701,Atlanta,South
+530767,Washington DC,East
+530890,New York,NorthEast
+531104,New York,NorthEast
+531183,New York,NorthEast
+531310,Chicago,MidWest
+531390,Chicago,MidWest
+532553,Los Angeles,SouthWest
+532656,Houston,South
+533325,Dallas,South
+533403,Atlanta,South
+533441,Washington DC,East
+533483,New York,NorthEast
+533618,New York,NorthEast
+533789,New York,NorthEast
+533929,Chicago,MidWest
+534030,Chicago,MidWest
+534281,Los Angeles,SouthWest
+534918,Houston,South
+535060,Dallas,South
+535146,Atlanta,South
+535240,Washington DC,East
+535749,New York,NorthEast
+536204,New York,NorthEast
+536735,New York,NorthEast
+537121,Chicago,MidWest
+537267,Chicago,MidWest
+537325,Los Angeles,SouthWest
+537436,Houston,South
+537694,Dallas,South
+538300,Atlanta,South
+538624,Washington DC,East
+539404,New York,NorthEast
+540013,New York,NorthEast
+541260,New York,NorthEast
+541345,Chicago,MidWest
+541356,Chicago,MidWest
+541892,Los Angeles,SouthWest
+541950,Houston,South
+542379,Dallas,South
+542621,Atlanta,South
+543195,Washington DC,East
+543236,New York,NorthEast
+543461,New York,NorthEast
+543766,New York,NorthEast
+543999,Chicago,MidWest
+544184,Chicago,MidWest
+544591,Los Angeles,SouthWest
+545128,Houston,South
+545156,Dallas,South
+545427,Atlanta,South
+546630,Washington DC,East
+547281,New York,NorthEast
+547548,New York,NorthEast
+548990,New York,NorthEast
+549108,Chicago,MidWest
+549401,Chicago,MidWest
+549433,Los Angeles,SouthWest
+549488,Houston,South
+549571,Dallas,South
+550393,Atlanta,South
+550651,Washington DC,East
+551194,New York,NorthEast
+551765,New York,NorthEast
+552075,New York,NorthEast
+552160,Chicago,MidWest
+552343,Chicago,MidWest
+552440,Los Angeles,SouthWest
+552533,Houston,South
+552836,Dallas,South
+553181,Atlanta,South
+553450,Washington DC,East
+553457,New York,NorthEast
+553554,New York,NorthEast
+553875,New York,NorthEast
+554717,Chicago,MidWest
+554937,Chicago,MidWest
+555316,Los Angeles,SouthWest
+555714,Houston,South
+556751,Dallas,South
+556753,Atlanta,South
+556959,Washington DC,East
+557097,New York,NorthEast
+557276,New York,NorthEast
+557742,New York,NorthEast
+558102,Chicago,MidWest
+558699,Chicago,MidWest
+558757,Los Angeles,SouthWest
+558929,Houston,South
+558982,Dallas,South
+559899,Atlanta,South
+559978,Washington DC,East
+560163,New York,NorthEast
+560431,New York,NorthEast
+560498,New York,NorthEast
+561229,Chicago,MidWest
+561298,Chicago,MidWest
+561480,Los Angeles,SouthWest
+561545,Houston,South
+561661,Dallas,South
+561698,Atlanta,South
+561939,Washington DC,East
+562258,New York,NorthEast
+562959,New York,NorthEast
+564704,New York,NorthEast
+564870,Chicago,MidWest
+564876,Chicago,MidWest
+565366,Los Angeles,SouthWest
+565900,Houston,South
+565905,Dallas,South
+566901,Atlanta,South
+567108,Washington DC,East
+567298,New York,NorthEast
+568284,New York,NorthEast
+568544,New York,NorthEast
+568784,Chicago,MidWest
+569787,Chicago,MidWest
+569821,Los Angeles,SouthWest
+569945,Houston,South
+570856,Dallas,South
+571745,Atlanta,South
+571989,Washington DC,East
+572434,New York,NorthEast
+573119,New York,NorthEast
+573662,New York,NorthEast
+573891,Chicago,MidWest
+574249,Chicago,MidWest
+574559,Los Angeles,SouthWest
+574711,Houston,South
+574755,Dallas,South
+574919,Atlanta,South
+575130,Washington DC,East
+575265,New York,NorthEast
+575340,New York,NorthEast
+576075,New York,NorthEast
+576077,Chicago,MidWest
+576358,Chicago,MidWest
+576862,Los Angeles,SouthWest
+576925,Houston,South
+577159,Dallas,South
+577224,Atlanta,South
+577720,Washington DC,East
+577879,New York,NorthEast
+578375,New York,NorthEast
+578437,New York,NorthEast
+578595,Chicago,MidWest
+578836,Chicago,MidWest
+579062,Los Angeles,SouthWest
+579216,Houston,South
+579540,Dallas,South
+579559,Atlanta,South
+579653,Washington DC,East
+579749,New York,NorthEast
+580384,New York,NorthEast
+580563,New York,NorthEast
+580899,Chicago,MidWest
+581785,Chicago,MidWest
+582070,Los Angeles,SouthWest
+582092,Houston,South
+582214,Dallas,South
+582757,Atlanta,South
+583020,Washington DC,East
+583357,New York,NorthEast
+583492,New York,NorthEast
+583812,New York,NorthEast
+584160,Chicago,MidWest
+584610,Chicago,MidWest
+584722,Los Angeles,SouthWest
+585443,Houston,South
+586348,Dallas,South
+586591,Atlanta,South
+587032,Washington DC,East
+587198,New York,NorthEast
+587288,New York,NorthEast
+587473,New York,NorthEast
+587740,Chicago,MidWest
+588314,Chicago,MidWest
+588355,Los Angeles,SouthWest
+588776,Houston,South
+589146,Dallas,South
+589294,Atlanta,South
+589522,Washington DC,East
+589601,New York,NorthEast
+589805,New York,NorthEast
+589858,New York,NorthEast
+590171,Chicago,MidWest
+590720,Chicago,MidWest
+590922,Los Angeles,SouthWest
+591295,Houston,South
+591918,Dallas,South
+591924,Atlanta,South
+592076,Washington DC,East
+592326,New York,NorthEast
+592403,New York,NorthEast
+593105,New York,NorthEast
+593309,Chicago,MidWest
+593439,Chicago,MidWest
+593556,Los Angeles,SouthWest
+593691,Houston,South
+593714,Dallas,South
+593782,Atlanta,South
+593808,Washington DC,East
+594178,New York,NorthEast
+594278,New York,NorthEast
+594326,New York,NorthEast
+594709,Chicago,MidWest
+594723,Chicago,MidWest
+595023,Los Angeles,SouthWest
+595507,Houston,South
+596033,Dallas,South
+596168,Atlanta,South
+596307,Washington DC,East
+596794,New York,NorthEast
+596807,New York,NorthEast
+597641,New York,NorthEast
+597700,Chicago,MidWest
+597791,Chicago,MidWest
+598389,Los Angeles,SouthWest
+598613,Houston,South
+598906,Dallas,South
+598981,Atlanta,South
+599007,Washington DC,East
+599394,New York,NorthEast
+599460,New York,NorthEast
+599528,New York,NorthEast
+600301,Chicago,MidWest
+600394,Chicago,MidWest
+600491,Los Angeles,SouthWest
+600498,Houston,South
+600553,Dallas,South
+601609,Atlanta,South
+601763,Washington DC,East
+602081,New York,NorthEast
+602325,New York,NorthEast
+602554,New York,NorthEast
+602565,Chicago,MidWest
+602709,Chicago,MidWest
+602895,Los Angeles,SouthWest
+603071,Houston,South
+603583,Dallas,South
+604196,Atlanta,South
+605501,Washington DC,East
+605769,New York,NorthEast
+605811,New York,NorthEast
+605943,New York,NorthEast
+605972,Chicago,MidWest
+605996,Chicago,MidWest
+606059,Los Angeles,SouthWest
+606136,Houston,South
+606610,Dallas,South
+606728,Atlanta,South
+606862,Washington DC,East
+607044,New York,NorthEast
+607300,New York,NorthEast
+607590,New York,NorthEast
+607686,Chicago,MidWest
+608262,Chicago,MidWest
+608319,Los Angeles,SouthWest
+609659,Houston,South
+610541,Dallas,South
+610544,Atlanta,South
+610656,Washington DC,East
+611206,New York,NorthEast
+611213,New York,NorthEast
+611659,New York,NorthEast
+611775,Chicago,MidWest
+611994,Chicago,MidWest
+612410,Los Angeles,SouthWest
+612918,Houston,South
+612959,Dallas,South
+613284,Atlanta,South
+613382,Washington DC,East
+613412,New York,NorthEast
+613757,New York,NorthEast
+614008,New York,NorthEast
+614316,Chicago,MidWest
+614574,Chicago,MidWest
+614682,Los Angeles,SouthWest
+614995,Houston,South
+615017,Dallas,South
+615019,Atlanta,South
+615601,Washington DC,East
+615617,New York,NorthEast
+616035,New York,NorthEast
+616670,New York,NorthEast
+616761,Chicago,MidWest
+617490,Chicago,MidWest
+617926,Los Angeles,SouthWest
+618621,Houston,South
+618798,Dallas,South
+618904,Atlanta,South
+618938,Washington DC,East
+619246,New York,NorthEast
+619512,New York,NorthEast
+619615,New York,NorthEast
+620742,Chicago,MidWest
+621210,Chicago,MidWest
+621238,Los Angeles,SouthWest
+621992,Houston,South
+621999,Dallas,South
+622467,Atlanta,South
+622635,Washington DC,East
+622638,New York,NorthEast
+622654,New York,NorthEast
+622972,New York,NorthEast
+623609,Chicago,MidWest
+623737,Chicago,MidWest
+623995,Los Angeles,SouthWest
+624616,Houston,South
+624633,Dallas,South
+624936,Atlanta,South
+624989,Washington DC,East
+625126,New York,NorthEast
+625135,New York,NorthEast
+625289,New York,NorthEast
+625521,Chicago,MidWest
+625637,Chicago,MidWest
+625871,Los Angeles,SouthWest
+626865,Houston,South
+627647,Dallas,South
+627833,Atlanta,South
+627854,Washington DC,East
+627932,New York,NorthEast
+627999,New York,NorthEast
+628355,New York,NorthEast
+628520,Chicago,MidWest
+628930,Chicago,MidWest
+629539,Los Angeles,SouthWest
+630045,Houston,South
+630179,Dallas,South
+630404,Atlanta,South
+630931,Washington DC,East
+630957,New York,NorthEast
+630963,New York,NorthEast
+631470,New York,NorthEast
+632252,Chicago,MidWest
+632336,Chicago,MidWest
+632420,Los Angeles,SouthWest
+632794,Houston,South
+632852,Dallas,South
+632929,Atlanta,South
+633005,Washington DC,East
+634011,New York,NorthEast
+634301,New York,NorthEast
+634507,New York,NorthEast
+634554,Chicago,MidWest
+634869,Chicago,MidWest
+635311,Los Angeles,SouthWest
+635586,Houston,South
+635758,Dallas,South
+635975,Atlanta,South
+636631,Washington DC,East
+636916,New York,NorthEast
+637195,New York,NorthEast
+637391,New York,NorthEast
+637967,Chicago,MidWest
+638212,Chicago,MidWest
+638224,Los Angeles,SouthWest
+638300,Houston,South
+638351,Dallas,South
+638530,Atlanta,South
+638944,Washington DC,East
+639023,New York,NorthEast
+639709,New York,NorthEast
+639942,New York,NorthEast
+640005,Chicago,MidWest
+640264,Chicago,MidWest
+640280,Los Angeles,SouthWest
+640464,Houston,South
+641472,Dallas,South
+641630,Atlanta,South
+642009,Washington DC,East
+642126,New York,NorthEast
+642285,New York,NorthEast
+642401,New York,NorthEast
+643021,Chicago,MidWest
+643200,Chicago,MidWest
+643602,Los Angeles,SouthWest
+643765,Houston,South
+644099,Dallas,South
+645087,Atlanta,South
+645691,Washington DC,East
+646512,New York,NorthEast
+646994,New York,NorthEast
+647112,New York,NorthEast
+647398,Chicago,MidWest
+647505,Chicago,MidWest
+647676,Los Angeles,SouthWest
+647675,Houston,South
+647781,Dallas,South
+647823,Atlanta,South
+647938,Washington DC,East
+648278,New York,NorthEast
+648314,New York,NorthEast
+649241,New York,NorthEast
+649569,Chicago,MidWest
+650182,Chicago,MidWest
+650246,Los Angeles,SouthWest
+650278,Houston,South
+650307,Dallas,South
+650721,Atlanta,South
+650789,Washington DC,East
+651235,New York,NorthEast
+651382,New York,NorthEast
+651458,New York,NorthEast
+652133,Chicago,MidWest
+652448,Chicago,MidWest
+652577,Los Angeles,SouthWest
+653144,Houston,South
+653764,Dallas,South
+653960,Atlanta,South
+654128,Washington DC,East
+654176,New York,NorthEast
+654349,New York,NorthEast
+654500,New York,NorthEast
+654583,Chicago,MidWest
+654592,Chicago,MidWest
+654743,Los Angeles,SouthWest
+654883,Houston,South
+655029,Dallas,South
+655302,Atlanta,South
+655654,Washington DC,East
+655660,New York,NorthEast
+655756,New York,NorthEast
+656051,New York,NorthEast
+656087,Chicago,MidWest
+656147,Chicago,MidWest
+656665,Los Angeles,SouthWest
+657150,Houston,South
+657426,Dallas,South
+658117,Atlanta,South
+658145,Washington DC,East
+658472,New York,NorthEast
+660166,New York,NorthEast
+660299,New York,NorthEast
+660306,Chicago,MidWest
+660310,Chicago,MidWest
+660493,Los Angeles,SouthWest
+660776,Houston,South
+660782,Dallas,South
+661284,Atlanta,South
+661464,Washington DC,East
+661933,New York,NorthEast
+661979,New York,NorthEast
+662039,New York,NorthEast
+662505,Chicago,MidWest
+662844,Chicago,MidWest
+662855,Los Angeles,SouthWest
+663382,Houston,South
+664083,Dallas,South
+664217,Atlanta,South
+664260,Washington DC,East
+664821,New York,NorthEast
+664851,New York,NorthEast
+665635,New York,NorthEast
+665865,Chicago,MidWest
+666033,Chicago,MidWest
+666069,Los Angeles,SouthWest
+666233,Houston,South
+666363,Dallas,South
+667576,Atlanta,South
+667602,Washington DC,East
+667720,New York,NorthEast
+667924,New York,NorthEast
+668013,New York,NorthEast
+669298,Chicago,MidWest
+669320,Chicago,MidWest
+669681,Los Angeles,SouthWest
+670218,Houston,South
+670322,Dallas,South
+670433,Atlanta,South
+670746,Washington DC,East
+670909,New York,NorthEast
+670961,New York,NorthEast
+671710,New York,NorthEast
+671725,Chicago,MidWest
+672063,Chicago,MidWest
+672201,Los Angeles,SouthWest
+672684,Houston,South
+672996,Dallas,South
+673083,Atlanta,South
+673089,Washington DC,East
+673369,New York,NorthEast
+673388,New York,NorthEast
+673718,New York,NorthEast
+674287,Chicago,MidWest
+674541,Chicago,MidWest
+675373,Los Angeles,SouthWest
+675494,Houston,South
+675761,Dallas,South
+676862,Atlanta,South
+677484,Washington DC,East
+678181,New York,NorthEast
+678243,New York,NorthEast
+678344,New York,NorthEast
+679132,Chicago,MidWest
+679153,Chicago,MidWest
+679337,Los Angeles,SouthWest
+679566,Houston,South
+679612,Dallas,South
+679661,Atlanta,South
+679694,Washington DC,East
+679828,New York,NorthEast
+679981,New York,NorthEast
+680067,New York,NorthEast
+680751,Chicago,MidWest
+681101,Chicago,MidWest
+681787,Los Angeles,SouthWest
+682829,Houston,South
+683027,Dallas,South
+683424,Atlanta,South
+683575,Washington DC,East
+683628,New York,NorthEast
+683794,New York,NorthEast
+683906,New York,NorthEast
+684682,Chicago,MidWest
+685067,Chicago,MidWest
+685858,Los Angeles,SouthWest
+685924,Houston,South
+686766,Dallas,South
+686832,Atlanta,South
+687209,Washington DC,East
+687497,New York,NorthEast
+687835,New York,NorthEast
+688164,New York,NorthEast
+688267,Chicago,MidWest
+688548,Chicago,MidWest
+688735,Los Angeles,SouthWest
+689037,Houston,South
+689813,Dallas,South
+690066,Atlanta,South
+690326,Washington DC,East
+690669,New York,NorthEast
+690682,New York,NorthEast
+690739,New York,NorthEast
+690864,Chicago,MidWest
+691022,Chicago,MidWest
+691325,Los Angeles,SouthWest
+691630,Houston,South
+691882,Dallas,South
+691893,Atlanta,South
+692300,Washington DC,East
+692790,New York,NorthEast
+692971,New York,NorthEast
+693054,New York,NorthEast
+693359,Chicago,MidWest
+693623,Chicago,MidWest
+693637,Los Angeles,SouthWest
+693681,Houston,South
+694148,Dallas,South
+694206,Atlanta,South
+694502,Washington DC,East
+694802,New York,NorthEast
+697573,New York,NorthEast
+698094,New York,NorthEast
+698165,Chicago,MidWest
+698645,Chicago,MidWest
+699617,Los Angeles,SouthWest
+699761,Houston,South
+699795,Dallas,South
+699898,Atlanta,South
+700315,Washington DC,East
+700670,New York,NorthEast
+700830,New York,NorthEast
+700915,New York,NorthEast
+701372,Chicago,MidWest
+701412,Chicago,MidWest
+701465,Los Angeles,SouthWest
+701474,Houston,South
+701496,Dallas,South
+701523,Atlanta,South
+701857,Washington DC,East
+701875,New York,NorthEast
+702018,New York,NorthEast
+702062,New York,NorthEast
+702200,Chicago,MidWest
+702785,Chicago,MidWest
+702983,Los Angeles,SouthWest
+702998,Houston,South
+703087,Dallas,South
+703406,Atlanta,South
+703534,Washington DC,East
+704121,New York,NorthEast
+704361,New York,NorthEast
+704965,New York,NorthEast
+705041,Chicago,MidWest
+705712,Chicago,MidWest
+706564,Los Angeles,SouthWest
+706682,Houston,South
+706854,Dallas,South
+707199,Atlanta,South
+707575,Washington DC,East
+707822,New York,NorthEast
+709201,New York,NorthEast
+709295,New York,NorthEast
+709345,Chicago,MidWest
+709401,Chicago,MidWest
+709505,Los Angeles,SouthWest
+709680,Houston,South
+709769,Dallas,South
+709780,Atlanta,South
+710861,Washington DC,East
+710862,New York,NorthEast
+710875,New York,NorthEast
+710893,New York,NorthEast
+711567,Chicago,MidWest
+711680,Chicago,MidWest
+712266,Los Angeles,SouthWest
+712773,Houston,South
+713019,Dallas,South
+713094,Atlanta,South
+713188,Washington DC,East
+713837,New York,NorthEast
+713894,New York,NorthEast
+713931,New York,NorthEast
+714187,Chicago,MidWest
+714206,Chicago,MidWest
+714483,Los Angeles,SouthWest
+715114,Houston,South
+715468,Dallas,South
+716223,Atlanta,South
+716245,Washington DC,East
+716258,New York,NorthEast
+716361,New York,NorthEast
+717035,New York,NorthEast
+717266,Chicago,MidWest
+717342,Chicago,MidWest
+717431,Los Angeles,SouthWest
+717465,Houston,South
+718143,Dallas,South
+718369,Atlanta,South
+718413,Washington DC,East
+718566,New York,NorthEast
+718757,New York,NorthEast
+718832,New York,NorthEast
+718992,Chicago,MidWest
+719207,Chicago,MidWest
+719237,Los Angeles,SouthWest
+719449,Houston,South
+719513,Dallas,South
+720364,Atlanta,South
+720398,Washington DC,East
+720430,New York,NorthEast
+720446,New York,NorthEast
+720906,New York,NorthEast
+721330,Chicago,MidWest
+721342,Chicago,MidWest
+721344,Los Angeles,SouthWest
+721563,Houston,South
+722020,Dallas,South
+722069,Atlanta,South
+722354,Washington DC,East
+722515,New York,NorthEast
+722694,New York,NorthEast
+722944,New York,NorthEast
+722968,Chicago,MidWest
+723232,Chicago,MidWest
+723420,Los Angeles,SouthWest
+723521,Houston,South
+723524,Dallas,South
+723572,Atlanta,South
+724281,Washington DC,East
+724583,New York,NorthEast
+724730,New York,NorthEast
+724819,New York,NorthEast
+725188,Chicago,MidWest
+725491,Chicago,MidWest
+726059,Los Angeles,SouthWest
+726233,Houston,South
+726592,Dallas,South
+726827,Atlanta,South
+726843,Washington DC,East
+726945,New York,NorthEast
+727830,New York,NorthEast
+728057,New York,NorthEast
+728792,Chicago,MidWest
+728829,Chicago,MidWest
+728875,Los Angeles,SouthWest
+729416,Houston,South
+730303,Dallas,South
+730753,Atlanta,South
+730770,Washington DC,East
+730822,New York,NorthEast
+730843,New York,NorthEast
+730948,New York,NorthEast
+730994,Chicago,MidWest
+731038,Chicago,MidWest
+731129,Los Angeles,SouthWest
+731189,Houston,South
+731380,Dallas,South
+732438,Atlanta,South
+732453,Washington DC,East
+732536,New York,NorthEast
+732575,New York,NorthEast
+732895,New York,NorthEast
+733290,Chicago,MidWest
+733476,Chicago,MidWest
+733981,Los Angeles,SouthWest
+734198,Houston,South
+734363,Dallas,South
+734694,Atlanta,South
+735166,Washington DC,East
+735378,New York,NorthEast
+735385,New York,NorthEast
+735607,New York,NorthEast
+735661,Chicago,MidWest
+736276,Chicago,MidWest
+736744,Los Angeles,SouthWest
+736781,Houston,South
+736970,Dallas,South
+737040,Atlanta,South
+737698,Washington DC,East
+737894,New York,NorthEast
+738316,New York,NorthEast
+739817,New York,NorthEast
+740094,Chicago,MidWest
+740518,Chicago,MidWest
+740977,Los Angeles,SouthWest
+741353,Houston,South
+741928,Dallas,South
+742780,Atlanta,South
+742828,Washington DC,East
+742946,New York,NorthEast
+743178,New York,NorthEast
+743907,New York,NorthEast
+744125,Chicago,MidWest
+744254,Chicago,MidWest
+744819,Los Angeles,SouthWest
+744824,Houston,South
+745029,Dallas,South
+745056,Atlanta,South
+745163,Washington DC,East
+745532,New York,NorthEast
+746087,New York,NorthEast
+746457,New York,NorthEast
+746475,Chicago,MidWest
+746886,Chicago,MidWest
+747867,Los Angeles,SouthWest
+748634,Houston,South
+748664,Dallas,South
+748903,Atlanta,South
+749500,Washington DC,East
+749522,New York,NorthEast
+749918,New York,NorthEast
+749955,New York,NorthEast
+750207,Chicago,MidWest
+750396,Chicago,MidWest
+750498,Los Angeles,SouthWest
+750781,Houston,South
+751093,Dallas,South
+751099,Atlanta,South
+751363,Washington DC,East
+751482,New York,NorthEast
+751502,New York,NorthEast
+751848,New York,NorthEast
+752653,Chicago,MidWest
+752879,Chicago,MidWest
+753062,Los Angeles,SouthWest
+753353,Houston,South
+753675,Dallas,South
+754106,Atlanta,South
+754212,Washington DC,East
+754265,New York,NorthEast
+754503,New York,NorthEast
+754541,New York,NorthEast
+754831,Chicago,MidWest
+755107,Chicago,MidWest
+755256,Los Angeles,SouthWest
+755255,Houston,South
+755291,Dallas,South
+755527,Atlanta,South
+757644,Washington DC,East
+757703,New York,NorthEast
+758184,New York,NorthEast
+758231,New York,NorthEast
+758626,Chicago,MidWest
+759101,Chicago,MidWest
+759229,Los Angeles,SouthWest
+759395,Houston,South
+759501,Dallas,South
+759516,Atlanta,South
+759574,Washington DC,East
+759617,New York,NorthEast
+759953,New York,NorthEast
+760188,New York,NorthEast
+760579,Chicago,MidWest
+761920,Chicago,MidWest
+762558,Los Angeles,SouthWest
+762690,Houston,South
+762704,Dallas,South
+762853,Atlanta,South
+762998,Washington DC,East
+763492,New York,NorthEast
+763782,New York,NorthEast
+763958,New York,NorthEast
+764141,Chicago,MidWest
+765385,Chicago,MidWest
+765464,Los Angeles,SouthWest
+766091,Houston,South
+766407,Dallas,South
+766524,Atlanta,South
+767080,Washington DC,East
+767906,New York,NorthEast
+768388,New York,NorthEast
+768535,New York,NorthEast
+768550,Chicago,MidWest
+768693,Chicago,MidWest
+768914,Los Angeles,SouthWest
+769125,Houston,South
+769416,Dallas,South
+769805,Atlanta,South
+769837,Washington DC,East
+770914,New York,NorthEast
+770919,New York,NorthEast
+771424,New York,NorthEast
+771453,Chicago,MidWest
+771952,Chicago,MidWest
+772344,Los Angeles,SouthWest
+772572,Houston,South
+772599,Dallas,South
+772860,Atlanta,South
+773049,Washington DC,East
+773719,New York,NorthEast
+773911,New York,NorthEast
+774195,New York,NorthEast
+774697,Chicago,MidWest
+774734,Chicago,MidWest
+775140,Los Angeles,SouthWest
+775372,Houston,South
+775538,Dallas,South
+775708,Atlanta,South
+776021,Washington DC,East
+776035,New York,NorthEast
+776072,New York,NorthEast
+776340,New York,NorthEast
+776450,Chicago,MidWest
+776762,Chicago,MidWest
+776995,Los Angeles,SouthWest
+777011,Houston,South
+777051,Dallas,South
+777194,Atlanta,South
+777720,Washington DC,East
+778772,New York,NorthEast
+778902,New York,NorthEast
+779197,New York,NorthEast
+780588,Chicago,MidWest
+780906,Chicago,MidWest
+780921,Los Angeles,SouthWest
+781274,Houston,South
+781421,Dallas,South
+781508,Atlanta,South
+781580,Washington DC,East
+781605,New York,NorthEast
+781666,New York,NorthEast
+781684,New York,NorthEast
+781788,Chicago,MidWest
+781932,Chicago,MidWest
+782991,Los Angeles,SouthWest
+783021,Houston,South
+783122,Dallas,South
+783153,Atlanta,South
+783459,Washington DC,East
+783976,New York,NorthEast
+784131,New York,NorthEast
+784756,New York,NorthEast
+784839,Chicago,MidWest
+785105,Chicago,MidWest
+785285,Los Angeles,SouthWest
+785335,Houston,South
+785743,Dallas,South
+786060,Atlanta,South
+786243,Washington DC,East
+786256,New York,NorthEast
+786616,New York,NorthEast
+786889,New York,NorthEast
+787244,Chicago,MidWest
+787273,Chicago,MidWest
+787343,Los Angeles,SouthWest
+787415,Houston,South
+787507,Dallas,South
+787673,Atlanta,South
+787861,Washington DC,East
+788278,New York,NorthEast
+788316,New York,NorthEast
+788616,New York,NorthEast
+788814,Chicago,MidWest
+789009,Chicago,MidWest
+789430,Los Angeles,SouthWest
+789453,Houston,South
+789704,Dallas,South
+789754,Atlanta,South
+789891,Washington DC,East
+789983,New York,NorthEast
+790357,New York,NorthEast
+790397,New York,NorthEast
+790895,Chicago,MidWest
+792092,Chicago,MidWest
+792153,Los Angeles,SouthWest
+792198,Houston,South
+792511,Dallas,South
+792696,Atlanta,South
+792738,Washington DC,East
+792958,New York,NorthEast
+793615,New York,NorthEast
+794323,New York,NorthEast
+795025,Chicago,MidWest
+795372,Chicago,MidWest
+795736,Los Angeles,SouthWest
+795990,Houston,South
+796597,Dallas,South
+796929,Atlanta,South
+796976,Washington DC,East
+797039,New York,NorthEast
+797075,New York,NorthEast
+797241,New York,NorthEast
+797483,Chicago,MidWest
+797779,Chicago,MidWest
+797796,Los Angeles,SouthWest
+797806,Houston,South
+797809,Dallas,South
+797965,Atlanta,South
+798051,Washington DC,East
+798061,New York,NorthEast
+798079,New York,NorthEast
+799779,New York,NorthEast
+800262,Chicago,MidWest
+800353,Chicago,MidWest
+800841,Los Angeles,SouthWest
+801572,Houston,South
+801964,Dallas,South
+802037,Atlanta,South
+802401,Washington DC,East
+802563,New York,NorthEast
+802615,New York,NorthEast
+802710,New York,NorthEast
+802724,Chicago,MidWest
+803393,Chicago,MidWest
+803432,Los Angeles,SouthWest
+803597,Houston,South
+803709,Dallas,South
+803830,Atlanta,South
+803850,Washington DC,East
+804141,New York,NorthEast
+805071,New York,NorthEast
+805156,New York,NorthEast
+805340,Chicago,MidWest
+805487,Chicago,MidWest
+805803,Los Angeles,SouthWest
+806504,Houston,South
+806594,Dallas,South
+807474,Atlanta,South
+807704,Washington DC,East
+808039,New York,NorthEast
+808361,New York,NorthEast
+808425,New York,NorthEast
+808457,Chicago,MidWest
+808508,Chicago,MidWest
+808574,Los Angeles,SouthWest
+808895,Houston,South
+809643,Dallas,South
+809893,Atlanta,South
+810050,Washington DC,East
+810594,New York,NorthEast
+811575,New York,NorthEast
+811686,New York,NorthEast
+812052,Chicago,MidWest
+812109,Chicago,MidWest
+812523,Los Angeles,SouthWest
+812884,Houston,South
+812942,Dallas,South
+813498,Atlanta,South
+813835,Washington DC,East
+814154,New York,NorthEast
+814237,New York,NorthEast
+814283,New York,NorthEast
+814377,Chicago,MidWest
+814470,Chicago,MidWest
+814697,Los Angeles,SouthWest
+814710,Houston,South
+815748,Dallas,South
+815872,Atlanta,South
+816168,Washington DC,East
+816351,New York,NorthEast
+816375,New York,NorthEast
+816408,New York,NorthEast
+816478,Chicago,MidWest
+816738,Chicago,MidWest
+816924,Los Angeles,SouthWest
+816943,Houston,South
+817074,Dallas,South
+817270,Atlanta,South
+817702,Washington DC,East
+817771,New York,NorthEast
+817914,New York,NorthEast
+818269,New York,NorthEast
+818584,Chicago,MidWest
+818845,Chicago,MidWest
+819231,Los Angeles,SouthWest
+819252,Houston,South
+819547,Dallas,South
+819629,Atlanta,South
+819930,Washington DC,East
+820301,New York,NorthEast
+820438,New York,NorthEast
+820447,New York,NorthEast
+820565,Chicago,MidWest
+820587,Chicago,MidWest
+820733,Los Angeles,SouthWest
+820784,Houston,South
+820954,Dallas,South
+821947,Atlanta,South
+822066,Washington DC,East
+822337,New York,NorthEast
+822542,New York,NorthEast
+822704,New York,NorthEast
+823006,Chicago,MidWest
+823350,Chicago,MidWest
+823467,Los Angeles,SouthWest
+823650,Houston,South
+823666,Dallas,South
+823669,Atlanta,South
+824581,Washington DC,East
+824838,New York,NorthEast
+824927,New York,NorthEast
+825270,New York,NorthEast
+825970,Chicago,MidWest
+826168,Chicago,MidWest
+827482,Los Angeles,SouthWest
+827766,Houston,South
+827861,Dallas,South
+828034,Atlanta,South
+828488,Washington DC,East
+828594,New York,NorthEast
+828655,New York,NorthEast
+829242,New York,NorthEast
+830186,Chicago,MidWest
+830587,Chicago,MidWest
+831681,Los Angeles,SouthWest
+831779,Houston,South
+831806,Dallas,South
+832347,Atlanta,South
+832817,Washington DC,East
+833390,New York,NorthEast
+833603,New York,NorthEast
+833604,New York,NorthEast
+834689,Chicago,MidWest
+834799,Chicago,MidWest
+834952,Los Angeles,SouthWest
+835431,Houston,South
+836031,Dallas,South
+836374,Atlanta,South
+836782,Washington DC,East
+836790,New York,NorthEast
+838050,New York,NorthEast
+838350,New York,NorthEast
+838716,Chicago,MidWest
+838725,Chicago,MidWest
+839013,Los Angeles,SouthWest
+839051,Houston,South
+839576,Dallas,South
+839646,Atlanta,South
+839788,Washington DC,East
+839811,New York,NorthEast
+840086,New York,NorthEast
+840167,New York,NorthEast
+840228,Chicago,MidWest
+840414,Chicago,MidWest
+840421,Los Angeles,SouthWest
+840462,Houston,South
+840482,Dallas,South
+840652,Atlanta,South
+840872,Washington DC,East
+841053,New York,NorthEast
+841935,New York,NorthEast
+842556,New York,NorthEast
+842745,Chicago,MidWest
+842938,Chicago,MidWest
+843031,Los Angeles,SouthWest
+844151,Houston,South
+844269,Dallas,South
+844720,Atlanta,South
+844900,Washington DC,East
+845362,New York,NorthEast
+845866,New York,NorthEast
+845880,New York,NorthEast
+845907,Chicago,MidWest
+846224,Chicago,MidWest
+846634,Los Angeles,SouthWest
+847243,Houston,South
+847592,Dallas,South
+848639,Atlanta,South
+848659,Washington DC,East
+849553,New York,NorthEast
+850337,New York,NorthEast
+852577,New York,NorthEast
+853769,Chicago,MidWest
+854067,Chicago,MidWest
+854709,Los Angeles,SouthWest
+854774,Houston,South
+855375,Dallas,South
+855411,Atlanta,South
+855424,Washington DC,East
+855515,New York,NorthEast
+855717,New York,NorthEast
+856058,New York,NorthEast
+856075,Chicago,MidWest
+856129,Chicago,MidWest
+856568,Los Angeles,SouthWest
+856746,Houston,South
+856920,Dallas,South
+857034,Atlanta,South
+857418,Washington DC,East
+857666,New York,NorthEast
+857789,New York,NorthEast
+857911,New York,NorthEast
+858037,Chicago,MidWest
+858268,Chicago,MidWest
+858292,Los Angeles,SouthWest
+858375,Houston,South
+858712,Dallas,South
+858857,Atlanta,South
+859834,Washington DC,East
+860447,New York,NorthEast
+860745,New York,NorthEast
+860945,New York,NorthEast
+862024,Chicago,MidWest
+863322,Chicago,MidWest
+863804,Los Angeles,SouthWest
+863878,Houston,South
+864342,Dallas,South
+864725,Atlanta,South
+865004,Washington DC,East
+865595,New York,NorthEast
+865897,New York,NorthEast
+866042,New York,NorthEast
+866061,Chicago,MidWest
+866325,Chicago,MidWest
+866460,Los Angeles,SouthWest
+866691,Houston,South
+866974,Dallas,South
+868879,Atlanta,South
+868958,Washington DC,East
+869080,New York,NorthEast
+869254,New York,NorthEast
+869591,New York,NorthEast
+869623,Chicago,MidWest
+869925,Chicago,MidWest
+870480,Los Angeles,SouthWest
+870725,Houston,South
+870781,Dallas,South
+870872,Atlanta,South
+870912,Washington DC,East
+871364,New York,NorthEast
+871565,New York,NorthEast
+871663,New York,NorthEast
+871929,Chicago,MidWest
+872039,Chicago,MidWest
+872479,Los Angeles,SouthWest
+872672,Houston,South
+872899,Dallas,South
+873027,Atlanta,South
+873273,Washington DC,East
+873342,New York,NorthEast
+873470,New York,NorthEast
+873768,New York,NorthEast
+874423,Chicago,MidWest
+874492,Chicago,MidWest
+874648,Los Angeles,SouthWest
+875002,Houston,South
+875416,Dallas,South
+875496,Atlanta,South
+875841,Washington DC,East
+876482,New York,NorthEast
+876742,New York,NorthEast
+876880,New York,NorthEast
+877748,Chicago,MidWest
+877861,Chicago,MidWest
+878032,Los Angeles,SouthWest
+878088,Houston,South
+878511,Dallas,South
+878738,Atlanta,South
+878754,Washington DC,East
+878887,New York,NorthEast
+879063,New York,NorthEast
+879309,New York,NorthEast
+879861,Chicago,MidWest
+880708,Chicago,MidWest
+880761,Los Angeles,SouthWest
+880813,Houston,South
+880840,Dallas,South
+881115,Atlanta,South
+882012,Washington DC,East
+882426,New York,NorthEast
+882880,New York,NorthEast
+883088,New York,NorthEast
+883110,Chicago,MidWest
+883189,Chicago,MidWest
+883236,Los Angeles,SouthWest
+883707,Houston,South
+885253,Dallas,South
+885842,Atlanta,South
+885928,Washington DC,East
+886251,New York,NorthEast
+886430,New York,NorthEast
+886748,New York,NorthEast
+886816,Chicago,MidWest
+886833,Chicago,MidWest
+887173,Los Angeles,SouthWest
+887590,Houston,South
+887878,Dallas,South
+887953,Atlanta,South
+889216,Washington DC,East
+889628,New York,NorthEast
+889652,New York,NorthEast
+889676,New York,NorthEast
+889870,Chicago,MidWest
+890455,Chicago,MidWest
+890614,Los Angeles,SouthWest
+891022,Houston,South
+891085,Dallas,South
+891269,Atlanta,South
+891533,Washington DC,East
+891831,New York,NorthEast
+892432,New York,NorthEast
+892996,New York,NorthEast
+893028,Chicago,MidWest
+893431,Chicago,MidWest
+893457,Los Angeles,SouthWest
+893540,Houston,South
+894841,Dallas,South
+894988,Atlanta,South
+895080,Washington DC,East
+895674,New York,NorthEast
+895901,New York,NorthEast
+896637,New York,NorthEast
+896681,Chicago,MidWest
+897388,Chicago,MidWest
+897686,Los Angeles,SouthWest
+898097,Houston,South
+898148,Dallas,South
+898311,Atlanta,South
+898553,Washington DC,East
+898588,New York,NorthEast
+898909,New York,NorthEast
+898972,New York,NorthEast
+899316,Chicago,MidWest
+899743,Chicago,MidWest
+899785,Los Angeles,SouthWest
+900753,Houston,South
+901915,Dallas,South
+902158,Atlanta,South
+902330,Washington DC,East
+902331,New York,NorthEast
+902749,New York,NorthEast
+903629,New York,NorthEast
+903975,Chicago,MidWest
+904350,Chicago,MidWest
+904387,Los Angeles,SouthWest
+904707,Houston,South
+904889,Dallas,South
+905064,Atlanta,South
+905345,Washington DC,East
+905535,New York,NorthEast
+905752,New York,NorthEast
+906384,New York,NorthEast
+906890,Chicago,MidWest
+906910,Chicago,MidWest
+906987,Los Angeles,SouthWest
+907535,Houston,South
+907584,Dallas,South
+907629,Atlanta,South
+908053,Washington DC,East
+908139,New York,NorthEast
+908407,New York,NorthEast
+908561,New York,NorthEast
+908739,Chicago,MidWest
+909365,Chicago,MidWest
+909585,Los Angeles,SouthWest
+909773,Houston,South
+909844,Dallas,South
+910131,Atlanta,South
+910209,Washington DC,East
+910218,New York,NorthEast
+910382,New York,NorthEast
+910456,New York,NorthEast
+910595,Chicago,MidWest
+910994,Chicago,MidWest
+911110,Los Angeles,SouthWest
+911675,Houston,South
+911814,Dallas,South
+912212,Atlanta,South
+912786,Washington DC,East
+913199,New York,NorthEast
+913327,New York,NorthEast
+913729,New York,NorthEast
+913948,Chicago,MidWest
+914051,Chicago,MidWest
+914355,Los Angeles,SouthWest
+914548,Houston,South
+914549,Dallas,South
+914708,Atlanta,South
+914764,Washington DC,East
+915078,New York,NorthEast
+915089,New York,NorthEast
+915233,New York,NorthEast
+915715,Chicago,MidWest
+916035,Chicago,MidWest
+916253,Los Angeles,SouthWest
+916298,Houston,South
+916456,Dallas,South
+916894,Atlanta,South
+916973,Washington DC,East
+917087,New York,NorthEast
+917333,New York,NorthEast
+917341,New York,NorthEast
+917531,Chicago,MidWest
+917713,Chicago,MidWest
+918492,Los Angeles,SouthWest
+918567,Houston,South
+918874,Dallas,South
+918980,Atlanta,South
+919093,Washington DC,East
+919735,New York,NorthEast
+919793,New York,NorthEast
+920007,New York,NorthEast
+920413,Chicago,MidWest
+921265,Chicago,MidWest
+921462,Los Angeles,SouthWest
+921565,Houston,South
+921647,Dallas,South
+922159,Atlanta,South
+922339,Washington DC,East
+922722,New York,NorthEast
+922749,New York,NorthEast
+923177,New York,NorthEast
+923184,Chicago,MidWest
+923515,Chicago,MidWest
+923630,Los Angeles,SouthWest
+924059,Houston,South
+924602,Dallas,South
+924855,Atlanta,South
+924966,Washington DC,East
+924993,New York,NorthEast
+925076,New York,NorthEast
+925138,New York,NorthEast
+925242,Chicago,MidWest
+926153,Chicago,MidWest
+926263,Los Angeles,SouthWest
+926661,Houston,South
+927125,Dallas,South
+927136,Atlanta,South
+927665,Washington DC,East
+927702,New York,NorthEast
+927839,New York,NorthEast
+928372,New York,NorthEast
+929165,Chicago,MidWest
+929172,Chicago,MidWest
+929555,Los Angeles,SouthWest
+930065,Houston,South
+930096,Dallas,South
+930180,Atlanta,South
+930668,Washington DC,East
+930795,New York,NorthEast
+931113,New York,NorthEast
+931335,New York,NorthEast
+931360,Chicago,MidWest
+931400,Chicago,MidWest
+931444,Los Angeles,SouthWest
+932083,Houston,South
+932090,Dallas,South
+932272,Atlanta,South
+932362,Washington DC,East
+932387,New York,NorthEast
+932835,New York,NorthEast
+933292,New York,NorthEast
+934109,Chicago,MidWest
+934334,Chicago,MidWest
+934473,Los Angeles,SouthWest
+934669,Houston,South
+934773,Dallas,South
+935049,Atlanta,South
+935541,Washington DC,East
+935682,New York,NorthEast
+936197,New York,NorthEast
+936812,New York,NorthEast
+937159,Chicago,MidWest
+938281,Chicago,MidWest
+938575,Los Angeles,SouthWest
+938909,Houston,South
+938999,Dallas,South
+939194,Atlanta,South
+939319,Washington DC,East
+939390,New York,NorthEast
+939854,New York,NorthEast
+940000,New York,NorthEast
+940227,Chicago,MidWest
+940603,Chicago,MidWest
+941011,Los Angeles,SouthWest
+941256,Houston,South
+941967,Dallas,South
+942406,Atlanta,South
+943254,Washington DC,East
+943315,New York,NorthEast
+943529,New York,NorthEast
+943794,New York,NorthEast
+944018,Chicago,MidWest
+944231,Chicago,MidWest
+944657,Los Angeles,SouthWest
+945218,Houston,South
+945260,Dallas,South
+946052,Atlanta,South
+946096,Washington DC,East
+946100,New York,NorthEast
+946153,New York,NorthEast
+946188,New York,NorthEast
+946248,Chicago,MidWest
+946372,Chicago,MidWest
+946771,Los Angeles,SouthWest
+947119,Houston,South
+947859,Dallas,South
+948027,Atlanta,South
+948398,Washington DC,East
+948472,New York,NorthEast
+948590,New York,NorthEast
+948670,New York,NorthEast
+948918,Chicago,MidWest
+949389,Chicago,MidWest
+949724,Los Angeles,SouthWest
+950352,Houston,South
+950671,Dallas,South
+951065,Atlanta,South
+951932,Washington DC,East
+952030,New York,NorthEast
+952254,New York,NorthEast
+952255,New York,NorthEast
+952336,Chicago,MidWest
+952405,Chicago,MidWest
+952797,Los Angeles,SouthWest
+952875,Houston,South
+953181,Dallas,South
+953202,Atlanta,South
+953539,Washington DC,East
+953680,New York,NorthEast
+954344,New York,NorthEast
+954354,New York,NorthEast
+954401,Chicago,MidWest
+954525,Chicago,MidWest
+954857,Los Angeles,SouthWest
+955048,Houston,South
+955335,Dallas,South
+955336,Atlanta,South
+955427,Washington DC,East
+955435,New York,NorthEast
+955761,New York,NorthEast
+956020,New York,NorthEast
+956126,Chicago,MidWest
+956298,Chicago,MidWest
+956452,Los Angeles,SouthWest
+956465,Houston,South
+957114,Dallas,South
+957154,Atlanta,South
+957190,Washington DC,East
+957409,New York,NorthEast
+957857,New York,NorthEast
+957964,New York,NorthEast
+958090,Chicago,MidWest
+958313,Chicago,MidWest
+958412,Los Angeles,SouthWest
+958793,Houston,South
+958926,Dallas,South
+959082,Atlanta,South
+959144,Washington DC,East
+959310,New York,NorthEast
+960171,New York,NorthEast
+960958,New York,NorthEast
+960979,Chicago,MidWest
+961299,Chicago,MidWest
+961438,Los Angeles,SouthWest
+961984,Houston,South
+962540,Dallas,South
+962573,Atlanta,South
+962937,Washington DC,East
+963500,New York,NorthEast
+963536,New York,NorthEast
+963883,New York,NorthEast
+963943,Chicago,MidWest
+964459,Chicago,MidWest
+964576,Los Angeles,SouthWest
+965319,Houston,South
+965382,Dallas,South
+965515,Atlanta,South
+965534,Washington DC,East
+965684,New York,NorthEast
+966034,New York,NorthEast
+966180,New York,NorthEast
+966333,Chicago,MidWest
+966816,Chicago,MidWest
+967085,Los Angeles,SouthWest
+967237,Houston,South
+967420,Dallas,South
+967428,Atlanta,South
+967701,Washington DC,East
+967924,New York,NorthEast
+968527,New York,NorthEast
+968571,New York,NorthEast
+968608,Chicago,MidWest
+968724,Chicago,MidWest
+969099,Los Angeles,SouthWest
+969911,Houston,South
+970299,Dallas,South
+970344,Atlanta,South
+970868,Washington DC,East
+971457,New York,NorthEast
+971483,New York,NorthEast
+971577,New York,NorthEast
+971640,Chicago,MidWest
+971645,Chicago,MidWest
+971787,Los Angeles,SouthWest
+972129,Houston,South
+972663,Dallas,South
+972684,Atlanta,South
+973020,Washington DC,East
+973580,New York,NorthEast
+973629,New York,NorthEast
+973672,New York,NorthEast
+974703,Chicago,MidWest
+975104,Chicago,MidWest
+975265,Los Angeles,SouthWest
+975487,Houston,South
+975582,Dallas,South
+975622,Atlanta,South
+975804,Washington DC,East
+976044,New York,NorthEast
+976135,New York,NorthEast
+976471,New York,NorthEast
+976521,Chicago,MidWest
+976949,Chicago,MidWest
+978064,Los Angeles,SouthWest
+978283,Houston,South
+978823,Dallas,South
+978859,Atlanta,South
+979665,Washington DC,East
+979689,New York,NorthEast
+980457,New York,NorthEast
+980521,New York,NorthEast
+981337,Chicago,MidWest
+981485,Chicago,MidWest
+981771,Los Angeles,SouthWest
+981963,Houston,South
+982639,Dallas,South
+982780,Atlanta,South
+983228,Washington DC,East
+983942,New York,NorthEast
+984677,New York,NorthEast
+985259,New York,NorthEast
+985507,Chicago,MidWest
+985511,Chicago,MidWest
+985528,Los Angeles,SouthWest
+985745,Houston,South
+985854,Dallas,South
+986069,Atlanta,South
+986507,Washington DC,East
+986707,New York,NorthEast
+987189,New York,NorthEast
+987788,New York,NorthEast
+987845,Chicago,MidWest
+988303,Chicago,MidWest
+989446,Los Angeles,SouthWest
+989506,Houston,South
+990213,Dallas,South
+990964,Atlanta,South
+991062,Washington DC,East
+991130,New York,NorthEast
+991267,New York,NorthEast
+991355,New York,NorthEast
+991379,Chicago,MidWest
+992216,Chicago,MidWest
+992602,Los Angeles,SouthWest
+992992,Houston,South
+993343,Dallas,South
+993937,Atlanta,South
+994051,Washington DC,East
+994266,New York,NorthEast
+994374,New York,NorthEast
+994597,New York,NorthEast
+994746,Chicago,MidWest
+994815,Chicago,MidWest
+995003,Los Angeles,SouthWest
+995220,Houston,South
+995396,Dallas,South
+995690,Atlanta,South
+995746,Washington DC,East
+995875,New York,NorthEast
+996177,New York,NorthEast
+996544,New York,NorthEast
+996795,Chicago,MidWest
+997324,Chicago,MidWest
+997777,Los Angeles,SouthWest
+997857,Houston,South
+998458,Dallas,South
+998959,Atlanta,South
+999099,Washington DC,East
